@@ -1,0 +1,32 @@
+
+/* Combinators 1 */
+.container p {
+   background-color: yellow;
+   color: red;
+   font-size: 20px;
+   text-align: center;
+} */
+
+/* Combinators 2 */
+.container .text {
+   background-color: yellow;
+   color: red;
+   font-size: 20px;
+   text-align: center;
+}
+
+/* Combinators 3 */
+div p {
+   background-color: yellow;
+   color: red;
+   font-size: 20px;
+   text-align: center;
+}
+
+/* Combinators 4 */
+div .text {
+   background-color: yellow;
+   color: red;
+   font-size: 20px;
+   text-align: center;
+}
